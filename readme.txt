@@ -1,2 +1,2 @@
-Creating a new branch is quick AND simple.
-tangjie
+Creating a new free branch is quick AND simple.
+
